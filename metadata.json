@@ -1,0 +1,6 @@
+{
+  "name": "NSE Paper Desk — Trading Terminal & Mobile APK",
+  "description": "Professional NSE paper trading desk & Android APK with sector scanner, Upstox v2 market feed, EMA tracking limit orders, broker-grade margin blocking, and risk locks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
